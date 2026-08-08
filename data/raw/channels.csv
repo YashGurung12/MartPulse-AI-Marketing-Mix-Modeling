@@ -1,0 +1,9 @@
+channel_id,channel_name,channel_type
+CH001,Facebook,Social
+CH002,Instagram,Social
+CH003,Google,Search
+CH004,YouTube,Video
+CH005,Email,Owned
+CH006,Display,Display
+CH007,TV,Traditional
+CH008,Radio,Traditional

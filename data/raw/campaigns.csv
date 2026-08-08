@@ -1,0 +1,101 @@
+campaign_id,campaign_name,campaign_type,brand,product_category,channel_id,campaign_start_date,campaign_end_date,campaign_budget,campaign_status
+CA001,Reebok Brand Awareness,Brand Awareness,Reebok,Apparel,CH002,2024-02-02,2024-05-02,639039,Active
+CA002,Reebok Lead Generation,Lead Generation,Reebok,Apparel,CH005,2025-01-16,2025-04-16,225922,Completed
+CA003,Reebok Seasonal,Seasonal,Reebok,Shoes,CH007,2024-04-26,2024-06-10,596286,Completed
+CA004,Reebok Lead Generation,Lead Generation,Reebok,Apparel,CH001,2024-06-01,2024-07-01,336290,Completed
+CA005,Nike Product Launch,Product Launch,Nike,Shoes,CH008,2024-06-23,2024-08-22,701468,Completed
+CA006,Under Armour Lead Generation,Lead Generation,Under Armour,Apparel,CH002,2025-04-04,2025-07-03,296020,Completed
+CA007,Reebok Brand Awareness,Brand Awareness,Reebok,Apparel,CH001,2025-12-02,2025-12-31,655131,Completed
+CA008,Under Armour Seasonal,Seasonal,Under Armour,Accesories,CH005,2024-05-18,2024-06-17,361593,Completed
+CA009,Reebok Remarketing,Remarketing,Reebok,Apparel,CH005,2024-02-16,2024-03-17,221879,Completed
+CA010,Nike Brand Awareness,Brand Awareness,Nike,Accesories,CH004,2024-08-18,2024-11-16,427770,Completed
+CA011,Puma Product Launch,Product Launch,Puma,Accesories,CH005,2025-05-14,2025-08-12,684153,Completed
+CA012,Adidas Lead Generation,Lead Generation,Adidas,Shoes,CH001,2025-08-31,2025-11-29,151549,Active
+CA013,Puma Lead Generation,Lead Generation,Puma,Apparel,CH001,2025-04-22,2025-06-06,288652,Completed
+CA014,Puma Remarketing,Remarketing,Puma,Accesories,CH005,2025-10-29,2025-12-13,148192,Completed
+CA015,Reebok Brand Awareness,Brand Awareness,Reebok,Shoes,CH005,2024-05-03,2024-07-02,489157,Completed
+CA016,Under Armour Flash Sale,Flash Sale,Under Armour,Shoes,CH002,2025-05-28,2025-07-12,165902,Completed
+CA017,Under Armour Brand Awareness,Brand Awareness,Under Armour,Apparel,CH005,2025-11-17,2025-12-31,698739,Completed
+CA018,Nike Product Launch,Product Launch,Nike,Accesories,CH001,2024-04-15,2024-07-14,602508,Completed
+CA019,Adidas Brand Awareness,Brand Awareness,Adidas,Shoes,CH008,2025-02-28,2025-04-29,411087,Completed
+CA020,Reebok Lead Generation,Lead Generation,Reebok,Shoes,CH003,2025-07-08,2025-08-07,305829,Active
+CA021,Puma Remarketing,Remarketing,Puma,Apparel,CH008,2025-12-08,2025-12-31,100380,Completed
+CA022,Under Armour Seasonal,Seasonal,Under Armour,Shoes,CH006,2024-03-29,2024-05-28,303186,Completed
+CA023,Reebok Lead Generation,Lead Generation,Reebok,Accesories,CH001,2025-02-23,2025-03-25,343433,Completed
+CA024,Adidas Remarketing,Remarketing,Adidas,Apparel,CH002,2025-08-01,2025-10-30,192525,Completed
+CA025,Reebok Flash Sale,Flash Sale,Reebok,Shoes,CH002,2024-08-05,2024-10-04,146664,Completed
+CA026,Adidas Seasonal,Seasonal,Adidas,Apparel,CH008,2025-04-08,2025-07-07,558876,Completed
+CA027,Adidas Lead Generation,Lead Generation,Adidas,Apparel,CH007,2025-03-24,2025-04-23,318645,Completed
+CA028,Adidas Remarketing,Remarketing,Adidas,Accesories,CH006,2024-12-18,2025-02-01,122139,Completed
+CA029,Reebok Lead Generation,Lead Generation,Reebok,Accesories,CH001,2025-11-06,2025-12-31,246732,Completed
+CA030,Puma Remarketing,Remarketing,Puma,Apparel,CH001,2025-07-21,2025-09-19,144376,Completed
+CA031,Adidas Flash Sale,Flash Sale,Adidas,Apparel,CH005,2025-01-08,2025-02-22,84932,Completed
+CA032,Nike Brand Awareness,Brand Awareness,Nike,Accesories,CH008,2024-03-02,2024-05-31,592871,Completed
+CA033,Reebok Lead Generation,Lead Generation,Reebok,Apparel,CH001,2024-08-29,2024-10-28,283951,Active
+CA034,Puma Seasonal,Seasonal,Puma,Apparel,CH005,2025-12-03,2025-12-31,353640,Active
+CA035,Puma Flash Sale,Flash Sale,Puma,Accesories,CH008,2024-02-06,2024-05-06,159036,Completed
+CA036,Puma Flash Sale,Flash Sale,Puma,Shoes,CH008,2025-11-30,2025-12-31,144416,Completed
+CA037,Adidas Flash Sale,Flash Sale,Adidas,Accesories,CH008,2025-09-03,2025-10-18,129220,Completed
+CA038,Reebok Flash Sale,Flash Sale,Reebok,Accesories,CH007,2024-11-24,2025-01-08,138068,Completed
+CA039,Nike Seasonal,Seasonal,Nike,Shoes,CH001,2025-04-20,2025-06-04,517089,Completed
+CA040,Adidas Seasonal,Seasonal,Adidas,Accesories,CH003,2025-09-08,2025-10-08,496895,Completed
+CA041,Under Armour Lead Generation,Lead Generation,Under Armour,Accesories,CH007,2025-11-21,2025-12-21,369640,Completed
+CA042,Puma Seasonal,Seasonal,Puma,Accesories,CH001,2024-04-05,2024-07-04,592470,Completed
+CA043,Adidas Flash Sale,Flash Sale,Adidas,Accesories,CH004,2025-06-05,2025-09-03,159552,Completed
+CA044,Nike Brand Awareness,Brand Awareness,Nike,Apparel,CH001,2024-03-13,2024-04-12,494972,Completed
+CA045,Nike Product Launch,Product Launch,Nike,Accesories,CH008,2024-12-15,2025-01-29,610499,Completed
+CA046,Reebok Remarketing,Remarketing,Reebok,Shoes,CH002,2025-12-04,2025-12-31,205450,Completed
+CA047,Adidas Remarketing,Remarketing,Adidas,Apparel,CH008,2025-12-20,2025-12-31,132631,Completed
+CA048,Nike Flash Sale,Flash Sale,Nike,Accesories,CH002,2025-11-04,2025-12-31,116305,Completed
+CA049,Reebok Brand Awareness,Brand Awareness,Reebok,Shoes,CH005,2025-09-12,2025-11-11,477514,Completed
+CA050,Puma Lead Generation,Lead Generation,Puma,Shoes,CH007,2024-12-16,2025-03-16,243497,Completed
+CA051,Puma Flash Sale,Flash Sale,Puma,Accesories,CH006,2024-06-20,2024-07-20,129843,Completed
+CA052,Reebok Seasonal,Seasonal,Reebok,Apparel,CH001,2025-11-24,2025-12-31,319751,Completed
+CA053,Puma Lead Generation,Lead Generation,Puma,Accesories,CH005,2024-10-05,2025-01-03,398783,Completed
+CA054,Adidas Remarketing,Remarketing,Adidas,Shoes,CH002,2024-01-23,2024-04-22,245946,Completed
+CA055,Adidas Remarketing,Remarketing,Adidas,Apparel,CH003,2025-05-18,2025-08-16,202070,Completed
+CA056,Adidas Lead Generation,Lead Generation,Adidas,Accesories,CH001,2024-01-02,2024-04-01,339498,Completed
+CA057,Under Armour Brand Awareness,Brand Awareness,Under Armour,Accesories,CH002,2024-04-28,2024-06-27,309641,Active
+CA058,Under Armour Remarketing,Remarketing,Under Armour,Apparel,CH007,2024-09-11,2024-11-10,147326,Completed
+CA059,Puma Seasonal,Seasonal,Puma,Apparel,CH008,2025-04-09,2025-06-08,303845,Completed
+CA060,Nike Flash Sale,Flash Sale,Nike,Accesories,CH005,2024-04-18,2024-06-17,95540,Completed
+CA061,Puma Flash Sale,Flash Sale,Puma,Accesories,CH006,2024-11-14,2025-01-13,91722,Completed
+CA062,Under Armour Lead Generation,Lead Generation,Under Armour,Shoes,CH003,2024-07-22,2024-10-20,266742,Completed
+CA063,Under Armour Remarketing,Remarketing,Under Armour,Shoes,CH001,2024-08-27,2024-10-26,157718,Completed
+CA064,Adidas Remarketing,Remarketing,Adidas,Shoes,CH007,2025-08-19,2025-09-18,160266,Completed
+CA065,Under Armour Brand Awareness,Brand Awareness,Under Armour,Apparel,CH008,2024-01-07,2024-02-06,540286,Completed
+CA066,Adidas Seasonal,Seasonal,Adidas,Accesories,CH001,2024-10-28,2024-12-12,517271,Active
+CA067,Reebok Product Launch,Product Launch,Reebok,Shoes,CH006,2024-10-18,2024-12-02,745261,Active
+CA068,Nike Seasonal,Seasonal,Nike,Shoes,CH005,2024-08-16,2024-11-14,402011,Completed
+CA069,Reebok Flash Sale,Flash Sale,Reebok,Shoes,CH004,2025-04-08,2025-06-07,107155,Completed
+CA070,Reebok Remarketing,Remarketing,Reebok,Accesories,CH001,2025-02-06,2025-03-08,107509,Completed
+CA071,Adidas Product Launch,Product Launch,Adidas,Apparel,CH007,2025-06-23,2025-08-22,720240,Completed
+CA072,Adidas Remarketing,Remarketing,Adidas,Apparel,CH003,2024-12-07,2025-01-21,223365,Completed
+CA073,Reebok Flash Sale,Flash Sale,Reebok,Shoes,CH006,2024-10-29,2024-11-28,120123,Completed
+CA074,Under Armour Remarketing,Remarketing,Under Armour,Apparel,CH001,2025-01-24,2025-02-23,222682,Completed
+CA075,Puma Product Launch,Product Launch,Puma,Accesories,CH005,2024-01-28,2024-03-13,804345,Completed
+CA076,Nike Brand Awareness,Brand Awareness,Nike,Apparel,CH003,2024-07-07,2024-08-21,469138,Completed
+CA077,Nike Seasonal,Seasonal,Nike,Accesories,CH002,2025-08-29,2025-10-28,556749,Completed
+CA078,Under Armour Brand Awareness,Brand Awareness,Under Armour,Shoes,CH002,2024-08-22,2024-10-21,426873,Active
+CA079,Puma Remarketing,Remarketing,Puma,Apparel,CH007,2025-07-18,2025-09-16,198931,Completed
+CA080,Adidas Lead Generation,Lead Generation,Adidas,Apparel,CH005,2024-01-21,2024-04-20,278801,Completed
+CA081,Reebok Flash Sale,Flash Sale,Reebok,Shoes,CH001,2025-06-26,2025-09-24,118409,Completed
+CA082,Nike Brand Awareness,Brand Awareness,Nike,Accesories,CH006,2025-07-20,2025-08-19,666134,Completed
+CA083,Adidas Flash Sale,Flash Sale,Adidas,Apparel,CH005,2024-09-03,2024-11-02,126713,Active
+CA084,Reebok Lead Generation,Lead Generation,Reebok,Apparel,CH002,2024-08-08,2024-11-06,207077,Completed
+CA085,Puma Lead Generation,Lead Generation,Puma,Accesories,CH001,2025-02-16,2025-05-17,386191,Completed
+CA086,Puma Brand Awareness,Brand Awareness,Puma,Apparel,CH006,2024-06-08,2024-08-07,418160,Completed
+CA087,Nike Flash Sale,Flash Sale,Nike,Apparel,CH008,2024-07-18,2024-08-17,131162,Completed
+CA088,Nike Brand Awareness,Brand Awareness,Nike,Apparel,CH005,2024-07-02,2024-08-01,486184,Completed
+CA089,Under Armour Flash Sale,Flash Sale,Under Armour,Apparel,CH004,2025-09-02,2025-11-01,105822,Completed
+CA090,Nike Brand Awareness,Brand Awareness,Nike,Shoes,CH001,2024-07-13,2024-08-27,502032,Completed
+CA091,Reebok Brand Awareness,Brand Awareness,Reebok,Apparel,CH004,2024-07-01,2024-07-31,326345,Completed
+CA092,Puma Seasonal,Seasonal,Puma,Shoes,CH006,2025-05-02,2025-06-16,556859,Completed
+CA093,Under Armour Seasonal,Seasonal,Under Armour,Shoes,CH004,2025-02-17,2025-04-03,546364,Completed
+CA094,Under Armour Product Launch,Product Launch,Under Armour,Accesories,CH001,2024-03-25,2024-06-23,802158,Active
+CA095,Puma Flash Sale,Flash Sale,Puma,Accesories,CH005,2025-08-11,2025-10-10,114476,Active
+CA096,Puma Seasonal,Seasonal,Puma,Accesories,CH005,2024-02-29,2024-03-30,534846,Active
+CA097,Puma Remarketing,Remarketing,Puma,Apparel,CH001,2025-01-08,2025-04-08,168088,Completed
+CA098,Reebok Lead Generation,Lead Generation,Reebok,Accesories,CH002,2025-12-24,2025-12-31,315862,Completed
+CA099,Puma Product Launch,Product Launch,Puma,Accesories,CH007,2025-05-22,2025-08-20,614618,Active
+CA100,Puma Brand Awareness,Brand Awareness,Puma,Shoes,CH007,2025-03-02,2025-05-01,585371,Completed
