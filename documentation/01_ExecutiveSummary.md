@@ -1,0 +1,8 @@
+
+MartPulse AI is an end-to-end Marketing Mix Modeling (MMM) project developed to analyze campaign performance and identify the key drivers of marketing revenue. Using SQL, Python, Statistics, Machine Learning, and Tableau, over **500,000** campaign interaction records were analyzed across multiple marketing channels, customer segments, and external business factors.
+
+The analysis revealed that marketing channel selection, conversions, holidays, and weather conditions significantly influence campaign revenue. Statistical hypothesis testing confirmed that these factors have a measurable impact on marketing performance. Predictive models were developed using Multiple Linear Regression and Random Forest Regression, with Random Forest achieving the highest predictive accuracy (R² = 91.67%).
+
+Business insights showed that Google, Facebook, and TV campaigns generated the strongest revenue uplift, while increasing conversions contributed more to revenue growth than simply increasing clicks. Interactive Tableau dashboards were developed to enable real-time monitoring of KPIs, campaign performance, customer insights, and marketing effectiveness.
+
+Overall, the project demonstrates a complete analytics pipeline—from synthetic data generation and SQL-based business analysis to statistical inference, predictive modeling, and business intelligence—providing actionable recommendations for marketing budget optimization and campaign decision-making.
