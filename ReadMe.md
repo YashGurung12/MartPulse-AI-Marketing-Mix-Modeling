@@ -1,4 +1,5 @@
 # 🚀 MartPulse AI | Marketing Mix Modeling & Campaign Optimization Platform
+![Executive Overview Dashboard](Tableau/dashboards/01_Executive_Summary.png)
 ---
 ## 📖 Project Overview
 MartPulse AI is a sportswear nationwide retailer  that operates across multiple marketing channels, including Google, Facebook, Email, TV, Radio, and Display advertising. 
